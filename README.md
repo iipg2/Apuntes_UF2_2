@@ -8,3 +8,14 @@
 + Análisis dinámico (unit tests)
 + Análisis estático (lint)
 
+**Análisis estático de código**
++ Mediante analizadores estáticos (linters): lint (C), sonar (Java), JSLint (Javascript), etc.
++ Mediante sitios web para inspección de código (Continuous Inspection): Scrutinizer, SonarQube, etc.
+
+**Refactorización:** Es el proceso de reestructurar un código fuente, alterando su estructura interna sin cambiar su comportamiento externo. Técnicas:
++ Renombrado de variables
++ Pasar código duplicado a funciones
++ Eliminación de código inalcanzable
++ Eliminación de código redundante
++ Eliminación de código muerto
+
