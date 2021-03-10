@@ -40,7 +40,7 @@
 
 **GIT**
 + **Características**
-++ Moderno
-++ Distribuido
-++ Eficiente
++ + Moderno
++ + Distribuido
++ + Eficiente
 
