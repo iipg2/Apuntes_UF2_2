@@ -43,4 +43,8 @@
   + Moderno
   + Distribuido
   + Eficiente
-
++ **Coceptos**
+  + Repository (local & remote)
+  + Commit
+  + Branch: Checkout, Merge (fast-forward, 3-way)
+![ScreenShot](http://jamj2000.github.io/entornosdesarrollo/4/assets/git-areas1.png)
