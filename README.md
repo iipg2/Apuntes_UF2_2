@@ -19,3 +19,17 @@
 + Eliminación de código redundante
 + Eliminación de código muerto
 
+**Documentación**
++ Documentación de código
++ Documentación técnica
++ Documentación de usuario
+
+**Formatos de documentación**
++ HTML (p. ej. Javadoc)
++ Markdown (p. ej. Gitbook)
++ reStructuredText (p. ej. Readthedocs)
++ asciiDoc
+
+**Control de versiones**
+
+
