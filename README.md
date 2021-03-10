@@ -47,4 +47,23 @@
   + Repository (local & remote)
   + Commit
   + Branch: Checkout, Merge (fast-forward, 3-way)
++ **Áreas**
 ![ScreenShot](http://jamj2000.github.io/entornosdesarrollo/4/assets/git-areas1.png)
+![ScreenShot](http://jamj2000.github.io/entornosdesarrollo/4/assets/git-areas2.png)
++ **Ramas**
+![ScreenShot](http://jamj2000.github.io/entornosdesarrollo/4/assets/git-branches.png)
++ **Comandos**
+# Configuración
+  config 
+
+# Repositorios
+  clone, remote add, remote rm
+
+# Básicos
+  init, status, log, add, rm, commit, push, pull
+
+# Ramas (branches)
+  branch, branch -d, merge, checkout, stash
+
+# Otros
+  diff, tag, submodule
