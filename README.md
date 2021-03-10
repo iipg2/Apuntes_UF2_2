@@ -32,4 +32,15 @@
 
 **Control de versiones**
 
+**Sistemas más conocidos**
++ CVS
++ Subversion
++ Mercurial
++ Git
+
+**GIT**
++ **Características**
+++ Moderno
+++ Distribuido
+++ Eficiente
 
